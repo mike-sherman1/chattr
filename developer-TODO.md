@@ -1,6 +1,6 @@
-#Developer TODO
+# Developer TODO
 
-##general guidelines, check slack for specifics
+## general guidelines, check slack for specifics
 
 - **DO NOT PUSH TO MASTER**
 - learn TinyIB
