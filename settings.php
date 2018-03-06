@@ -9,8 +9,8 @@
 # Set TINYIB_DBMODE to a MySQL-related mode if it's available.  By default it's set to flatfile, which can be very slow.
 
 // Administrator/moderator credentials
-define('TINYIB_ADMINPASS', 'boobs');       // Administrators have full access to the board
-define('TINYIB_MODPASS', 'boobies');         // Moderators only have access to delete (and moderate if TINYIB_REQMOD is set) posts  ['' to disable]
+define('TINYIB_ADMINPASS', 'boobs2');       // Administrators have full access to the board
+define('TINYIB_MODPASS', 'boobies2');         // Moderators only have access to delete (and moderate if TINYIB_REQMOD is set) posts  ['' to disable]
 
 // Board description and behavior
 define('TINYIB_BOARD', 'b');          // Unique identifier for this board using only letters and numbers
@@ -63,7 +63,7 @@ define('TINYIB_MAXW', 250);           // Width
 define('TINYIB_MAXH', 250);           // Height
 
 // Tripcode seed - Must not change once set!
-define('TINYIB_TRIPSEED', 'large big breasts xD');        // Enter some random text  (used when generating secure tripcodes)
+define('TINYIB_TRIPSEED', 'large big breasts xD 2');        // Enter some random text  (used when generating secure tripcodes)
 
 // CAPTCHA
 //   The following only apply when TINYIB_CAPTCHA is set to recaptcha
